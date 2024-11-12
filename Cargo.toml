@@ -1,4 +1,4 @@
-[wordspace]
+[workspace]
 members = [
     "backend",
     "frontend",
