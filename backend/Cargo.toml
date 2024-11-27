@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+openssl-sys = "0.9.104"
 rocket = "0.5"
 rocket_ws = "0.1"
